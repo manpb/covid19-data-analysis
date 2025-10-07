@@ -8,9 +8,8 @@ It demonstrates how to transform raw COVID-19 data into meaningful insights on i
 ## 📁 Project Structure
 
 | Folder | Description |
-|--------|--------------|
-| **Data/** | Contains sample data files (`CovidDeaths-sample.xlsx`, `CovidVaccination-sample.xlsx`). These are truncated samples of the full datasets. 
-    A link to the complete dataset is provided below. |
+| :------ | :----------- |
+| **Data/** | Contains sample data files (`CovidDeaths-sample.xlsx`, `CovidVaccination-sample.xlsx`). These are truncated samples of the full datasets. A link to the complete dataset is provided below. |
 | **Queries/** | Includes SQL scripts used to clean, join, and analyze data, as well as create database views for reporting. |
 | **Query Results/** | Contains sample CSV outputs from SQL queries, representing partial results used for visualization. |
 
